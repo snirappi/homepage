@@ -1,0 +1,42 @@
+body {
+	font-family: Cantarell;
+	/*background-color: #bf7cca;*/
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+a {
+	outline: 0 !important;
+	}
+
+.container {
+	padding: 0;
+}
+#content {
+	background-color: #FFFFFF;
+  	text-align: center;
+  	padding: 15px;
+  	box-shadow: 0px 2px 10px #222;
+}
+.vcenter {
+	position: relative;
+	top: 50vh;
+	transform: translateY(-50%);
+}
+
+h1 {
+	font-size: 4em;
+	margin-bottom: 0;
+	color: #A348B1;
+}
+h2 {
+	font-size: 3em;
+	margin-top: 5px;
+	
+}
+h3 {
+	font-size: 2em;
+	margin-top: 10px;
+}
+
